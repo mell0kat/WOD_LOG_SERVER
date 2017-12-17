@@ -1,3 +1,5 @@
+# WOD_LOG_SERVER
+
 # apollo-tutorial-kit
 
 Starting point for the Apollo GraphQL Server tutorial.
@@ -34,3 +36,6 @@ and hit the play button (cmd-return), then you should get this on the right side
   }
 }
 ```
+
+
+
